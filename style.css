@@ -1,0 +1,16 @@
+a{
+	text text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+.logo{
+	width: 300px;
+}
+header{
+	background-color:blue ;
+	height: 300px;
+}
+header a{
+	color: white;
+} 
